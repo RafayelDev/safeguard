@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">SAFEGUARD</string>
+    <string name="channel_vpn">SAFEGUARD protection</string>
+    <string name="channel_attention">SAFEGUARD alerts</string>
+    <string name="status_starting">Starting…</string>
+    <string name="status_active">Protection active — %1$d domains in blocklist</string>
+    <string name="status_missing">blocklist.txt not found — keeping last %1$d rules</string>
+    <string name="status_unreadable">Cannot read blocklist.txt — keeping last %1$d rules</string>
+    <string name="status_corrupt">blocklist.txt is invalid — keeping last %1$d rules</string>
+    <string name="status_private_dns">%1$s. Warning: Private DNS is in strict mode and may bypass the filter.</string>
+    <string name="attention_permission">VPN permission was lost. Open SAFEGUARD to turn protection back on.</string>
+    <string name="attention_stopped">Protection stopped. Open SAFEGUARD to turn it back on.</string>
+</resources>

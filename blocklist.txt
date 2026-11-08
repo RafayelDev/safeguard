@@ -1,0 +1,5 @@
+# SAFEGUARD BLOCKLIST
+
+example.com
+casino-example.net
+unwanted-site.org

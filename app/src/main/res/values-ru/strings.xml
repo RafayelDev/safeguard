@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">SAFEGUARD</string>
+    <string name="channel_vpn">Защита SAFEGUARD</string>
+    <string name="channel_attention">Предупреждения SAFEGUARD</string>
+    <string name="status_starting">Запуск…</string>
+    <string name="status_active">Защита активна — доменов в списке: %1$d</string>
+    <string name="status_missing">blocklist.txt не найден — действуют прежние правила (%1$d)</string>
+    <string name="status_unreadable">Не удаётся прочитать blocklist.txt — действуют прежние правила (%1$d)</string>
+    <string name="status_corrupt">blocklist.txt повреждён — действуют прежние правила (%1$d)</string>
+    <string name="status_private_dns">%1$s. Внимание: Private DNS в строгом режиме может обходить фильтр.</string>
+    <string name="attention_permission">Разрешение VPN утеряно. Откройте SAFEGUARD, чтобы снова включить защиту.</string>
+    <string name="attention_stopped">Защита остановлена. Откройте SAFEGUARD, чтобы снова включить её.</string>
+</resources>
